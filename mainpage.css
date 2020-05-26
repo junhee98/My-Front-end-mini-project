@@ -1,0 +1,10 @@
+body {
+    background-color: aquamarine;
+    display : inline;
+    text-align: center;
+    font-family: "Gill Sans", sans-serif;
+}
+#mainhead {
+    color: azure;
+    font-size: 5rem;
+}
